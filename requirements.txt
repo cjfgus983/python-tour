@@ -1,0 +1,9 @@
+glob2
+matplotlib
+seaborn
+pandas
+folium
+googlemaps
+scikit-learn
+yellowbrick
+numpy
